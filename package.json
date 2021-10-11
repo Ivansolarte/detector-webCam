@@ -1,0 +1,19 @@
+{
+  "name": "@ivan_solarte/detector-webcam",
+  "version": "1.0.1",
+  "description": "Este modulo trata de detectar las camaras web de tu pc y enlazarla con tu navegador",
+  "main": "src/index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webcam"
+  ],
+  "author": "ivan solarte",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false
+}
